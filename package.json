@@ -1,0 +1,14 @@
+{
+  "name": "@emisso/inventory-monorepo",
+  "private": true,
+  "scripts": {
+    "build": "pnpm -r build",
+    "test": "pnpm -r test",
+    "test:run": "pnpm -r test:run",
+    "lint": "pnpm -r lint"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.30.0",
+    "tsx": "^4.21.0"
+  }
+}
