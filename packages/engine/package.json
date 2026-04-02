@@ -39,5 +39,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/emisso-ai/emisso-inventory"
+  },
+  "homepage": "https://github.com/emisso-ai/emisso-inventory",
+  "bugs": {
+    "url": "https://github.com/emisso-ai/emisso-inventory/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
